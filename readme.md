@@ -73,7 +73,7 @@ Apply palette reduction.
 ##### interlaced
 
 Type: `Boolean`<br>
-Default: `true`
+Default: `true`<br>
 Alias: `progressive`
 
 Apply PNG interlacing.
