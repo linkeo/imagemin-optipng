@@ -70,6 +70,14 @@ Default: `true`
 
 Apply palette reduction.
 
+##### interlaced
+
+Type: `Boolean`<br>
+Default: `true`
+Alias: `progressive`
+
+Apply PNG interlacing.
+
 #### buffer
 
 Type: `Buffer`
